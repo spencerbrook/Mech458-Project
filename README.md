@@ -1,2 +1,3 @@
 # Mech458-Project
-Lab projects for Mech 458 at uvic
+Final Lab project for Mech 458 at uvic
+Sorted pieces in 34s with 1 error
